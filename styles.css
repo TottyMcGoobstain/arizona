@@ -1,0 +1,169 @@
+
+/* TEXT PALLETE
+--dark-sienna: #2A0D02ff;
+--camel: #B38959ff;
+--onyx: #36373Bff;
+--goldenrod: #D09700ff;
+--windsor-tan: #A85B00ff;
+
+*/
+
+
+
+
+body {
+    text-align: center;
+    font-family: 'Rye', cursive;
+    margin: 0;
+   
+    
+}
+
+
+.hero {
+    background-image: url("images/arizona_main.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+    margin: 0;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-bottom: 5px solid black;
+    
+    
+}
+
+#visitarizona {
+    background: #36373B;
+    padding: 10px 20px;
+    margin: 200px 5px 0px 0px;
+    border-radius: 10px;
+    color: #ffffff;
+    text-shadow: 3px 2px black;
+   
+}
+
+#mainsaying  {
+    background: #36373B;
+    padding: 10px 20px;
+    font-size: 15px;
+    margin: 30px;
+    width: 400px;
+    border-radius: 10px;
+    color: #ffffff;
+    text-shadow: 3px 2px black;
+
+   
+}
+
+.topThree {
+    color: #36373B;
+    margin: 50px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+.action {
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+align-items: start;
+margin: 50px auto;
+
+
+}
+
+
+
+
+.images {
+    border-radius: 500px;
+    width: auto;
+    height: 150px;
+    
+
+}
+
+.activityText {
+    
+    width: 170px;
+    margin: 5px auto;
+    
+}
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.guide {
+    background: #2A0D02;
+    width: 500px;
+    display: flex;
+    margin: 100px auto;
+    text-align: center;
+    border-radius: 20px;
+    border: 2px solid black;
+    
+    
+    
+}
+
+.totty {
+    width: auto;
+    height: 200px;
+    margin: 40px 20px;
+    border-radius: 10px;
+    border: 1px solid black;
+ 
+
+
+}
+
+#guidetext {
+    
+    margin: 20px 20px;
+    padding: 5px 20px;
+    color: white;
+    text-shadow: 1px 1px 1px black;
+
+}
+
+
+.footer {
+    
+    text-align: center;
+    background: #36373B;
+    color: white;
+    padding: 20px
+}
+
+
+
+
+
